@@ -3,23 +3,14 @@ I'm There!
 **I'm Angelo a Information Technology Student**  
 Passionate about software development, and networking.
 urrently learning new technologies and building projects to improve my skills every day.
-
-## About Me
-
-Aspiring Software Developer
-Currently exploring Web Development, and Networking
-Working on personal and academic projects
-I enjoy solving problems
+I build anything that pops inside my head.
 
 ## Tech Stack
 - C++
 - JavaScript
 - HTML & CSS
 
-**Tools**
-- Git & GitHub
-- VS Code
-- Docker
+**Tools** Git & GitHub, VS Code, Figma and App Notes
 
 
 ## Goals
