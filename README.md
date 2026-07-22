@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there! 👋 I'm Rey Angelo
 
-<!--
-**angue-tech/angue-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Information Technology Student**  
+🎓 Passionate about software development, and networking.
+🌱 Currently learning new technologies and building projects to improve my skills every day.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎯 Aspiring Software Developer
+- 📚 Currently exploring Web Development, and Networking
+- 🔭 Working on personal and academic projects
+- 💡 I enjoy solving problems
+
+## 🛠️ Tech Stack
+- C++
+- JavaScript
+- HTML & CSS
+
+**Tools**
+- Git & GitHub
+- VS Code
+- Docker
+
+
+## 🌟 Goals
+
+- Build impactful software
+- Contribute to open-source projects
+- Keep learning something new every day
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/
+- Email: your.email@example.com
+
+---
