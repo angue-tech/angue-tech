@@ -3,7 +3,7 @@ I'm There!
 **I'm Angelo a Information Technology Student**  
 Passionate about software development, and networking.
 urrently learning new technologies and building projects to improve my skills every day.
-I build anything that pops inside my head.
+I build anything that pops inside my head fuel with feelings.
 
 ## Tech Stack
 - C++
