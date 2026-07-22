@@ -1,15 +1,15 @@
-# Hi there! 👋 I'm Rey Angelo
+#I'm Rey Angelo
 
-💻 **Information Technology Student**  
-🎓 Passionate about software development, and networking.
-🌱 Currently learning new technologies and building projects to improve my skills every day.
+**Information Technology Student**  
+Passionate about software development, and networking.
+urrently learning new technologies and building projects to improve my skills every day.
 
-## 🚀 About Me
+## About Me
 
-- 🎯 Aspiring Software Developer
-- 📚 Currently exploring Web Development, and Networking
-- 🔭 Working on personal and academic projects
-- 💡 I enjoy solving problems
+- Aspiring Software Developer
+- Currently exploring Web Development, and Networking
+- Working on personal and academic projects
+- I enjoy solving problems
 
 ## 🛠️ Tech Stack
 - C++
@@ -22,7 +22,7 @@
 - Docker
 
 
-## 🌟 Goals
+## Goals
 
 - Build impactful software
 - Contribute to open-source projects
@@ -30,7 +30,7 @@
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/
-- Email: your.email@example.com
+- GitHub: https://github.com/angue-tech
+- Email: reyangelocomaling@gmail.com
 
 ---
