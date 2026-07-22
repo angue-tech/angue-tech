@@ -1,6 +1,6 @@
-I'm There!
+Hey There!
 
-**I'm Angelo a Information Technology Student**  
+**I'm Angelo a Information Technology Student at a UNI**  
 Passionate about software development, and networking.
 urrently learning new technologies and building projects to improve my skills every day.
 I build anything that pops inside my head fuel with feelings.
