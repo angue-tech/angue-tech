@@ -1,17 +1,17 @@
-#I'm Rey Angelo
+I'm There!
 
-**Information Technology Student**  
+**I'm Angelo a Information Technology Student**  
 Passionate about software development, and networking.
 urrently learning new technologies and building projects to improve my skills every day.
 
 ## About Me
 
-- Aspiring Software Developer
-- Currently exploring Web Development, and Networking
-- Working on personal and academic projects
-- I enjoy solving problems
+Aspiring Software Developer
+Currently exploring Web Development, and Networking
+Working on personal and academic projects
+I enjoy solving problems
 
-## 🛠️ Tech Stack
+## Tech Stack
 - C++
 - JavaScript
 - HTML & CSS
@@ -28,7 +28,7 @@ urrently learning new technologies and building projects to improve my skills ev
 - Contribute to open-source projects
 - Keep learning something new every day
 
-## 📫 Connect With Me
+## Connect With Me
 
 - GitHub: https://github.com/angue-tech
 - Email: reyangelocomaling@gmail.com
